@@ -1,6 +1,9 @@
 # Kernel_setup_in_jupyter
 
 conda create -n python36 python=3.6 anaconda
+
+
+
 conda bash
 
 conda activate python36
