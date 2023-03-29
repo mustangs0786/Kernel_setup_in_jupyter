@@ -2,6 +2,10 @@
 
 conda create -n python36 python=3.6 anaconda
 
+or
+
+conda create --prefix=/users/.../yourEnvName python=x.x
+
 
 
 conda bash
